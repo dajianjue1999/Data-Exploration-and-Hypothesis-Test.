@@ -1,2 +1,3 @@
-# hw1
- eods-s22-hw1
+# Data-Exploration-and-Hypothesis-Test
+
+I am going to do some data exploration and perform a hypothesis test.
